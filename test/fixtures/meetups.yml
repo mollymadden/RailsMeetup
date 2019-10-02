@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  eventdate: 2019-10-01 16:08:53
+  creationdate: 2019-10-01 16:08:53
+  location: MyText
+  user: one
+  title: MyText
+  description: MyText
+  category: one
+  imageURL: MyText
+
+two:
+  eventdate: 2019-10-01 16:08:53
+  creationdate: 2019-10-01 16:08:53
+  location: MyText
+  user: two
+  title: MyText
+  description: MyText
+  category: two
+  imageURL: MyText
